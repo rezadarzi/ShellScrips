@@ -1,4 +1,4 @@
-#Whene you want shutdown docker swarm clutser, at first you have to scale down all service.
-#At first run list service.sh
-#At secend step run scalezero.sh
-#At third step run scaleup.sh
+## When you want to shut down the docker swarm cluster, you must first scale down all services.
+# At first run list service.sh
+# At secend step run scalezero.sh
+# At the third step run scaleup.sh

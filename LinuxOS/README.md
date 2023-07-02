@@ -1,1 +1,1 @@
-Just for linux based OS
+Just for Linux based OS
